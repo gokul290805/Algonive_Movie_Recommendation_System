@@ -130,9 +130,3 @@ Movie-Recommendation-System/
 **Gokul Krishnan**
 - GitHub: [gokul290805](https://github.com/gokul290805)
 - LinkedIn: [Gokul Krishnan](https://linkedin.com/posts/gokul-krishnan-615226260)
-
----
-
-## 🏢 Internship
-
-Developed as part of the **Algonive Data Science Internship**
